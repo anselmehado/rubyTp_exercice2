@@ -16,8 +16,8 @@ J= 14
 K= 3
 L = 2
 M = 5
-N =17
-O =7
+N = 7
+O = 17
 P = 1
 Q 16
 
@@ -26,7 +26,7 @@ III Information of each variable
 
 ① variable empty_seat  = C
 ② seats_count変数 = A
-③ variable number_of_visitors =F
+③ variable number_of_visitors =B
 ④ users variable = F
-⑤ variable nombre_sièges = A
+⑤ variable nombre_sièges = D
 ⑥ fill_last_number変数  = E 
