@@ -6,7 +6,7 @@ II Read the correct code and select the combination
 A =8
 B = 10
 C = 13
-D = 6
+D = 17
 E 15
 F = 4
 G =11
@@ -16,8 +16,8 @@ J= 14
 K= 3
 L = 2
 M = 5
-N = 7
-O = 17
+N = 6
+O = 7
 P = 1
 Q 16
 
