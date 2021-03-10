@@ -1,0 +1,32 @@
+
+HADO Adédédji Anselme
+Ruby series Task (Code reading ) deuxieme envoie
+II Read the correct code and select the combination
+
+A =8
+B = 10
+C = 13
+D = 6
+E 15
+F = 4
+G =11
+H = 12
+I = 9
+J= 14
+K= 3
+L = 2
+M = 5
+N =17
+O =7
+P = 1
+Q 16
+
+
+III Information of each variable 
+
+① variable empty_seat  = C
+② seats_count変数 = A
+③ variable number_of_visitors =F
+④ users variable = F
+⑤ variable nombre_sièges = A
+⑥ fill_last_number変数  = E 
